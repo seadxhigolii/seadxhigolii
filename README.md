@@ -2,5 +2,5 @@
 
 🔭 I’m currently working on Guardtek app by [Trackforce](https://www.trackforce.com/) </br>
 🤝 I’m passionate about fullstack engineering </br>
-💬 Ask me about C#.NET and Career </br>
+💬 Ask me about C#.NET and my career </br>
 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/seadxhigoli/)
